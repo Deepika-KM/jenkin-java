@@ -25,6 +25,6 @@
     </dependency>
   </dependencies>
    <build>
-    <finalName>jenkinjava</finalName>
+    <finalName>jenkin-java</finalName>
   </build>
 </project>
